@@ -1,0 +1,1076 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# +3V3-power-Music_Player-rescue
+#
+DEF +3V3-power-Music_Player-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+3V3-power-Music_Player-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +3V3 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +3V3-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF +3V3-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+3V3-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +3V3 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +3V7-power
+#
+DEF +3V7-power #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+3V7-power" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +3V7 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +5V-power-Music_Player-rescue
+#
+DEF +5V-power-Music_Player-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+5V-power-Music_Player-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +5V 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +5V-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF +5V-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+5V-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +5V 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# AMS1117-1.8-Regulator_Linear-Music_Player-rescue
+#
+DEF AMS1117-1.8-Regulator_Linear-Music_Player-rescue U 0 10 Y Y 1 F N
+F0 "U" -150 125 50 H V C CNN
+F1 "AMS1117-1.8-Regulator_Linear-Music_Player-rescue" 0 125 50 H V L CNN
+F2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" 0 200 50 H I C CNN
+F3 "" 100 -250 50 H I C CNN
+$FPLIST
+ SOT?223*TabPin2*
+$ENDFPLIST
+DRAW
+S -200 -200 200 75 0 1 10 f
+X GND 1 0 -300 100 U 50 50 1 1 W
+X VO 2 300 0 100 L 50 50 1 1 w
+X VI 3 -300 0 100 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# AMS1117-1.8-Regulator_Linear-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF AMS1117-1.8-Regulator_Linear-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue U 0 10 Y Y 1 F N
+F0 "U" -150 125 50 H V C CNN
+F1 "AMS1117-1.8-Regulator_Linear-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 125 50 H V L CNN
+F2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" 0 200 50 H I C CNN
+F3 "" 100 -250 50 H I C CNN
+$FPLIST
+ SOT?223*TabPin2*
+$ENDFPLIST
+DRAW
+S -200 -200 200 75 0 1 10 f
+X GND 1 0 -300 100 U 50 50 1 1 W
+X VO 2 300 0 100 L 50 50 1 1 w
+X VI 3 -300 0 100 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# AMS1117-3.3-Regulator_Linear-Music_Player-rescue
+#
+DEF AMS1117-3.3-Regulator_Linear-Music_Player-rescue U 0 10 Y Y 1 F N
+F0 "U" -150 125 50 H V C CNN
+F1 "AMS1117-3.3-Regulator_Linear-Music_Player-rescue" 0 125 50 H V L CNN
+F2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" 0 200 50 H I C CNN
+F3 "" 100 -250 50 H I C CNN
+$FPLIST
+ SOT?223*TabPin2*
+$ENDFPLIST
+DRAW
+S -200 -200 200 75 0 1 10 f
+X GND 1 0 -300 100 U 50 50 1 1 W
+X VO 2 300 0 100 L 50 50 1 1 w
+X VI 3 -300 0 100 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# AMS1117-3.3-Regulator_Linear-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF AMS1117-3.3-Regulator_Linear-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue U 0 10 Y Y 1 F N
+F0 "U" -150 125 50 H V C CNN
+F1 "AMS1117-3.3-Regulator_Linear-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 125 50 H V L CNN
+F2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" 0 200 50 H I C CNN
+F3 "" 100 -250 50 H I C CNN
+$FPLIST
+ SOT?223*TabPin2*
+$ENDFPLIST
+DRAW
+S -200 -200 200 75 0 1 10 f
+X GND 1 0 -300 100 U 50 50 1 1 W
+X VO 2 300 0 100 L 50 50 1 1 w
+X VI 3 -300 0 100 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# AVDD-power
+#
+DEF AVDD-power #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "AVDD-power" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 75 25 0 1 0 N
+P 2 0 1 0 0 0 0 50 N
+X AVDD 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# Battery_Cell-Device-Music_Player-rescue
+#
+DEF Battery_Cell-Device-Music_Player-rescue BT 0 0 N N 1 F N
+F0 "BT" 100 100 50 H V L CNN
+F1 "Battery_Cell-Device-Music_Player-rescue" 100 0 50 H V L CNN
+F2 "" 0 60 50 V I C CNN
+F3 "" 0 60 50 V I C CNN
+DRAW
+S -90 70 90 60 0 1 0 F
+S -62 47 58 27 0 1 0 F
+P 2 0 1 0 0 30 0 0 N
+P 2 0 1 0 0 70 0 100 N
+P 2 0 1 10 20 135 60 135 N
+P 2 0 1 10 40 155 40 115 N
+X + 1 0 200 100 D 50 50 1 1 P
+X - 2 0 -100 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Battery_Cell-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF Battery_Cell-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue BT 0 0 N N 1 F N
+F0 "BT" 100 100 50 H V L CNN
+F1 "Battery_Cell-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 100 0 50 H V L CNN
+F2 "" 0 60 50 V I C CNN
+F3 "" 0 60 50 V I C CNN
+DRAW
+S -90 70 90 60 0 1 0 F
+S -62 47 58 27 0 1 0 F
+P 2 0 1 0 0 30 0 0 N
+P 2 0 1 0 0 70 0 100 N
+P 2 0 1 10 20 135 60 135 N
+P 2 0 1 10 40 155 40 115 N
+X + 1 0 200 100 D 50 50 1 1 P
+X - 2 0 -100 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C-Device-Music_Player-rescue
+#
+DEF C-Device-Music_Player-rescue C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "C-Device-Music_Player-rescue" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF C-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "C-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CP-Device-Music_Player-rescue
+#
+DEF CP-Device-Music_Player-rescue C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "CP-Device-Music_Player-rescue" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ CP_*
+$ENDFPLIST
+DRAW
+S -90 20 90 40 0 1 0 N
+S 90 -20 -90 -40 0 1 0 F
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CP-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF CP-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "CP-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ CP_*
+$ENDFPLIST
+DRAW
+S -90 20 90 40 0 1 0 N
+S 90 -20 -90 -40 0 1 0 F
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CVDD-power
+#
+DEF CVDD-power #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "CVDD-power" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 75 25 0 1 0 N
+P 2 0 1 0 0 0 0 50 N
+X CVDD 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# CVDD-power-Music_Player-rescue-Music_Player-rescue
+#
+DEF CVDD-power-Music_Player-rescue-Music_Player-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "CVDD-power-Music_Player-rescue-Music_Player-rescue" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 75 25 0 1 0 N
+P 2 0 1 0 0 0 0 50 N
+X CVDD 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# CVDD-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF CVDD-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "CVDD-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 75 25 0 1 0 N
+P 2 0 1 0 0 0 0 50 N
+X CVDD 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# Conn_01x01_Female-Connector-Music_Player-rescue
+#
+DEF Conn_01x01_Female-Connector-Music_Player-rescue J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Conn_01x01_Female-Connector-Music_Player-rescue" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*
+$ENDFPLIST
+DRAW
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+P 2 1 1 6 -50 0 -20 0 N
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_01x01_Female-Connector-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF Conn_01x01_Female-Connector-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Conn_01x01_Female-Connector-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*
+$ENDFPLIST
+DRAW
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+P 2 1 1 6 -50 0 -20 0 N
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_01x02_Female-Connector-Music_Player-rescue
+#
+DEF Conn_01x02_Female-Connector-Music_Player-rescue J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Conn_01x02_Female-Connector-Music_Player-rescue" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+A 0 -100 20 901 -901 1 1 6 N 0 -80 0 -120
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+P 2 1 1 6 -50 -100 -20 -100 N
+P 2 1 1 6 -50 0 -20 0 N
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+X Pin_2 2 -200 -100 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_01x02_Female-Connector-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF Conn_01x02_Female-Connector-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Conn_01x02_Female-Connector-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+A 0 -100 20 901 -901 1 1 6 N 0 -80 0 -120
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+P 2 1 1 6 -50 -100 -20 -100 N
+P 2 1 1 6 -50 0 -20 0 N
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+X Pin_2 2 -200 -100 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_01x04_Female-Connector-Music_Player-rescue
+#
+DEF Conn_01x04_Female-Connector-Music_Player-rescue J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "Conn_01x04_Female-Connector-Music_Player-rescue" 0 -300 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+A 0 -200 20 901 -901 1 1 6 N 0 -180 0 -220
+A 0 -100 20 901 -901 1 1 6 N 0 -80 0 -120
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+A 0 100 20 901 -901 1 1 6 N 0 120 0 80
+P 2 1 1 6 -50 -200 -20 -200 N
+P 2 1 1 6 -50 -100 -20 -100 N
+P 2 1 1 6 -50 0 -20 0 N
+P 2 1 1 6 -50 100 -20 100 N
+X Pin_1 1 -200 100 150 R 50 50 1 1 P
+X Pin_2 2 -200 0 150 R 50 50 1 1 P
+X Pin_3 3 -200 -100 150 R 50 50 1 1 P
+X Pin_4 4 -200 -200 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_01x04_Female-Connector-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF Conn_01x04_Female-Connector-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "Conn_01x04_Female-Connector-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 -300 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+A 0 -200 20 901 -901 1 1 6 N 0 -180 0 -220
+A 0 -100 20 901 -901 1 1 6 N 0 -80 0 -120
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+A 0 100 20 901 -901 1 1 6 N 0 120 0 80
+P 2 1 1 6 -50 -200 -20 -200 N
+P 2 1 1 6 -50 -100 -20 -100 N
+P 2 1 1 6 -50 0 -20 0 N
+P 2 1 1 6 -50 100 -20 100 N
+X Pin_1 1 -200 100 150 R 50 50 1 1 P
+X Pin_2 2 -200 0 150 R 50 50 1 1 P
+X Pin_3 3 -200 -100 150 R 50 50 1 1 P
+X Pin_4 4 -200 -200 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Crystal-Device-Music_Player-rescue
+#
+DEF Crystal-Device-Music_Player-rescue Y 0 40 N N 1 F N
+F0 "Y" 0 150 50 H V C CNN
+F1 "Crystal-Device-Music_Player-rescue" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Crystal*
+$ENDFPLIST
+DRAW
+S -45 100 45 -100 0 1 12 N
+P 2 0 1 0 -100 0 -75 0 N
+P 2 0 1 20 -75 -50 -75 50 N
+P 2 0 1 20 75 -50 75 50 N
+P 2 0 1 0 100 0 75 0 N
+X 1 1 -150 0 50 R 50 50 1 1 P
+X 2 2 150 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Crystal-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF Crystal-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue Y 0 40 N N 1 F N
+F0 "Y" 0 150 50 H V C CNN
+F1 "Crystal-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Crystal*
+$ENDFPLIST
+DRAW
+S -45 100 45 -100 0 1 12 N
+P 2 0 1 0 -100 0 -75 0 N
+P 2 0 1 20 -75 -50 -75 50 N
+P 2 0 1 20 75 -50 75 50 N
+P 2 0 1 0 100 0 75 0 N
+X 1 1 -150 0 50 R 50 50 1 1 P
+X 2 2 150 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# DIODE-pspice-Music_Player-rescue
+#
+DEF DIODE-pspice-Music_Player-rescue D 0 40 Y N 1 F N
+F0 "D" 0 150 50 H V C CNN
+F1 "DIODE-pspice-Music_Player-rescue" 0 -175 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 75 100 75 -100 N
+P 3 0 1 0 -75 100 -75 -100 75 0 F
+X K 1 -200 0 150 R 50 50 1 1 I
+X A 2 200 0 150 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# DIODE-pspice-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF DIODE-pspice-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue D 0 40 Y N 1 F N
+F0 "D" 0 150 50 H V C CNN
+F1 "DIODE-pspice-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 -175 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 75 100 75 -100 N
+P 3 0 1 0 -75 100 -75 -100 75 0 F
+X K 1 -200 0 150 R 50 50 1 1 I
+X A 2 200 0 150 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# DS1307+-Timer_RTC-Music_Player-rescue
+#
+DEF DS1307+-Timer_RTC-Music_Player-rescue U 0 20 Y Y 1 F N
+F0 "U" -350 350 50 H V C CNN
+F1 "DS1307+-Timer_RTC-Music_Player-rescue" 50 350 50 H V L CNN
+F2 "Package_DIP:DIP-8_W7.62mm" 0 -500 50 H I C CNN
+F3 "" 0 -200 50 H I C CNN
+$FPLIST
+ DIP*W7.62mm*
+$ENDFPLIST
+DRAW
+S -400 300 400 -300 0 1 10 f
+X X1 1 -500 -100 100 R 50 50 1 1 I
+X X2 2 -500 -200 100 R 50 50 1 1 I
+X VBAT 3 0 400 100 D 50 50 1 1 W
+X GND 4 0 -400 100 U 50 50 1 1 W
+X SDA 5 -500 100 100 R 50 50 1 1 B
+X SCL 6 -500 200 100 R 50 50 1 1 I
+X SQW/OUT 7 500 0 100 L 50 50 1 1 C
+X VCC 8 -100 400 100 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# DS1307+-Timer_RTC-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF DS1307+-Timer_RTC-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue U 0 20 Y Y 1 F N
+F0 "U" -350 350 50 H V C CNN
+F1 "DS1307+-Timer_RTC-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 50 350 50 H V L CNN
+F2 "Package_DIP:DIP-8_W7.62mm" 0 -500 50 H I C CNN
+F3 "" 0 -200 50 H I C CNN
+$FPLIST
+ DIP*W7.62mm*
+$ENDFPLIST
+DRAW
+S -400 300 400 -300 0 1 10 f
+X X1 1 -500 -100 100 R 50 50 1 1 I
+X X2 2 -500 -200 100 R 50 50 1 1 I
+X VBAT 3 0 400 100 D 50 50 1 1 W
+X GND 4 0 -400 100 U 50 50 1 1 W
+X SDA 5 -500 100 100 R 50 50 1 1 B
+X SCL 6 -500 200 100 R 50 50 1 1 I
+X SQW/OUT 7 500 0 100 L 50 50 1 1 C
+X VCC 8 -100 400 100 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# DW03D-Self
+#
+DEF DW03D-Self U 0 40 Y Y 1 F N
+F0 "U" -50 250 50 H V C CNN
+F1 "DW03D-Self" -50 150 50 H V C CNN
+F2 "" -50 150 50 H I C CNN
+F3 "" -50 150 50 H I C CNN
+DRAW
+S -250 100 200 -400 0 1 0 f
+X BTT- 6 300 -200 100 L 50 50 0 0 U
+X VDD 7 300 -100 100 L 50 50 0 0 U
+X CO 8 300 0 100 L 50 50 0 0 U
+X V- 1 -350 0 100 R 50 50 1 1 B
+X DO 2 -350 -100 100 R 50 50 1 1 B
+X GND 3 -350 -200 100 R 50 50 1 1 B
+X G1 4 -350 -300 100 R 50 50 1 1 B
+X G2 5 300 -300 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# GND-power-Music_Player-rescue
+#
+DEF GND-power-Music_Player-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "GND-power-Music_Player-rescue" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# GND-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF GND-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "GND-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# HX70A-Self
+#
+DEF HX70A-Self U 0 40 Y Y 1 F N
+F0 "U" 0 250 50 H V C CNN
+F1 "HX70A-Self" 0 150 50 H V C CNN
+F2 "" 0 150 50 H I C CNN
+F3 "" 0 150 50 H I C CNN
+DRAW
+S -150 50 200 -350 0 1 0 f
+X VDD 1 -250 0 100 R 50 50 1 1 B
+X GND 2 -250 -300 100 R 50 50 1 1 B
+X D1 3 300 0 100 L 50 50 1 1 B
+X D2 4 300 -100 100 L 50 50 1 1 B
+X D3 5 300 -200 100 L 50 50 1 1 B
+X D4 6 300 -300 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# HX70A-Self-Music_Player-rescue-Music_Player-rescue
+#
+DEF HX70A-Self-Music_Player-rescue-Music_Player-rescue U 0 40 Y Y 1 F N
+F0 "U" 0 250 50 H V C CNN
+F1 "HX70A-Self-Music_Player-rescue-Music_Player-rescue" 0 150 50 H V C CNN
+F2 "" 0 150 50 H I C CNN
+F3 "" 0 150 50 H I C CNN
+DRAW
+S -150 50 200 -350 0 1 0 f
+X VDD 1 -250 0 100 R 50 50 1 1 B
+X GND 2 -250 -300 100 R 50 50 1 1 B
+X D1 3 300 0 100 L 50 50 1 1 B
+X D2 4 300 -100 100 L 50 50 1 1 B
+X D3 5 300 -200 100 L 50 50 1 1 B
+X D4 6 300 -300 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# HX70A-Self-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF HX70A-Self-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue U 0 40 Y Y 1 F N
+F0 "U" 0 250 50 H V C CNN
+F1 "HX70A-Self-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 150 50 H V C CNN
+F2 "" 0 150 50 H I C CNN
+F3 "" 0 150 50 H I C CNN
+DRAW
+S -150 50 200 -350 0 1 0 f
+X VDD 1 -250 0 100 R 50 50 1 1 B
+X GND 2 -250 -300 100 R 50 50 1 1 B
+X D1 3 300 0 100 L 50 50 1 1 B
+X D2 4 300 -100 100 L 50 50 1 1 B
+X D3 5 300 -200 100 L 50 50 1 1 B
+X D4 6 300 -300 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# INDUCTOR-pspice-Music_Player-rescue
+#
+DEF INDUCTOR-pspice-Music_Player-rescue L 0 0 N Y 1 F N
+F0 "L" 0 100 50 H V C CNN
+F1 "INDUCTOR-pspice-Music_Player-rescue" 0 -50 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+A -150 0 50 1 1799 0 1 0 N -100 0 -200 0
+A -50 0 50 1 1799 0 1 0 N 0 0 -100 0
+A 50 0 50 1 1799 0 1 0 N 100 0 0 0
+A 150 0 50 1 1799 0 1 0 N 200 0 100 0
+X 1 1 -250 0 50 R 30 30 1 1 I
+X 2 2 250 0 50 L 30 30 1 1 I
+ENDDRAW
+ENDDEF
+#
+# INDUCTOR-pspice-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF INDUCTOR-pspice-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue L 0 0 N Y 1 F N
+F0 "L" 0 100 50 H V C CNN
+F1 "INDUCTOR-pspice-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 -50 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+A -150 0 50 1 1799 0 1 0 N -100 0 -200 0
+A -50 0 50 1 1799 0 1 0 N 0 0 -100 0
+A 50 0 50 1 1799 0 1 0 N 100 0 0 0
+A 150 0 50 1 1799 0 1 0 N 200 0 100 0
+X 1 1 -250 0 50 R 30 30 1 1 I
+X 2 2 250 0 50 L 30 30 1 1 I
+ENDDRAW
+ENDDEF
+#
+# IOVDD-power
+#
+DEF IOVDD-power #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "IOVDD-power" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 75 25 0 1 0 N
+P 2 0 1 0 0 0 0 50 N
+X IOVDD 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# LED-Device-Music_Player-rescue
+#
+DEF LED-Device-Music_Player-rescue D 0 40 N N 1 F N
+F0 "D" 0 100 50 H V C CNN
+F1 "LED-Device-Music_Player-rescue" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ LED*
+ LED_SMD:*
+ LED_THT:*
+$ENDFPLIST
+DRAW
+P 2 0 1 10 -50 -50 -50 50 N
+P 2 0 1 0 -50 0 50 0 N
+P 4 0 1 10 50 -50 50 50 -50 0 50 -50 N
+P 5 0 1 0 -120 -30 -180 -90 -150 -90 -180 -90 -180 -60 N
+P 5 0 1 0 -70 -30 -130 -90 -100 -90 -130 -90 -130 -60 N
+X K 1 -150 0 100 R 50 50 1 1 P
+X A 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# LED-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF LED-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue D 0 40 N N 1 F N
+F0 "D" 0 100 50 H V C CNN
+F1 "LED-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ LED*
+ LED_SMD:*
+ LED_THT:*
+$ENDFPLIST
+DRAW
+P 2 0 1 10 -50 -50 -50 50 N
+P 2 0 1 0 -50 0 50 0 N
+P 4 0 1 10 50 -50 50 50 -50 0 50 -50 N
+P 5 0 1 0 -120 -30 -180 -90 -150 -90 -180 -90 -180 -60 N
+P 5 0 1 0 -70 -30 -130 -90 -100 -90 -130 -90 -130 -60 N
+X K 1 -150 0 100 R 50 50 1 1 P
+X A 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ME2807A35M3G-项目3专用库-Music_Player-rescue
+#
+DEF ME2807A35M3G-项目3专用库-Music_Player-rescue U 0 40 Y Y 1 F N
+F0 "U" 200 500 50 H V C CNN
+F1 "ME2807A35M3G-项目3专用库-Music_Player-rescue" 250 400 50 H V C CNN
+F2 "" 200 500 50 H I C CNN
+F3 "" 200 500 50 H I C CNN
+DRAW
+S 100 0 400 350 0 1 0 N
+X vout 1 0 250 100 R 50 50 1 1 O
+X gnd 2 0 150 100 R 50 50 1 1 O
+X vin 3 0 50 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# ME2807A35M3G-项目3专用库-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF ME2807A35M3G-项目3专用库-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue U 0 40 Y Y 1 F N
+F0 "U" 200 500 50 H V C CNN
+F1 "ME2807A35M3G-项目3专用库-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 250 400 50 H V C CNN
+F2 "" 200 500 50 H I C CNN
+F3 "" 200 500 50 H I C CNN
+DRAW
+S 100 0 400 350 0 1 0 N
+X vout 1 0 250 100 R 50 50 1 1 O
+X gnd 2 0 150 100 R 50 50 1 1 O
+X vin 3 0 50 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# Q_NMOS_DGS-Device-Music_Player-rescue
+#
+DEF Q_NMOS_DGS-Device-Music_Player-rescue Q 0 0 Y N 1 F N
+F0 "Q" 200 50 50 H V L CNN
+F1 "Q_NMOS_DGS-Device-Music_Player-rescue" 200 -50 50 H V L CNN
+F2 "" 200 100 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 65 0 110 0 1 10 N
+C 100 -70 10 0 1 0 F
+C 100 70 10 0 1 0 F
+P 2 0 1 0 10 0 -100 0 N
+P 2 0 1 10 10 75 10 -75 N
+P 2 0 1 10 30 -50 30 -90 N
+P 2 0 1 10 30 20 30 -20 N
+P 2 0 1 10 30 90 30 50 N
+P 2 0 1 0 100 100 100 70 N
+P 3 0 1 0 100 -100 100 0 30 0 N
+P 4 0 1 0 30 -70 130 -70 130 70 30 70 N
+P 4 0 1 0 40 0 80 15 80 -15 40 0 F
+P 4 0 1 0 110 20 115 15 145 15 150 10 N
+P 4 0 1 0 130 15 115 -10 145 -10 130 15 N
+X D 1 100 200 100 D 50 50 1 1 P
+X G 2 -200 0 100 R 50 50 1 1 I
+X S 3 100 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Q_NMOS_DGS-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF Q_NMOS_DGS-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue Q 0 0 Y N 1 F N
+F0 "Q" 200 50 50 H V L CNN
+F1 "Q_NMOS_DGS-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 200 -50 50 H V L CNN
+F2 "" 200 100 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 65 0 110 0 1 10 N
+C 100 -70 10 0 1 0 F
+C 100 70 10 0 1 0 F
+P 2 0 1 0 10 0 -100 0 N
+P 2 0 1 10 10 75 10 -75 N
+P 2 0 1 10 30 -50 30 -90 N
+P 2 0 1 10 30 20 30 -20 N
+P 2 0 1 10 30 90 30 50 N
+P 2 0 1 0 100 100 100 70 N
+P 3 0 1 0 100 -100 100 0 30 0 N
+P 4 0 1 0 30 -70 130 -70 130 70 30 70 N
+P 4 0 1 0 40 0 80 15 80 -15 40 0 F
+P 4 0 1 0 110 20 115 15 145 15 150 10 N
+P 4 0 1 0 130 15 115 -10 145 -10 130 15 N
+X D 1 100 200 100 D 50 50 1 1 P
+X G 2 -200 0 100 R 50 50 1 1 I
+X S 3 100 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Q_PMOS_DGS-Device-Music_Player-rescue
+#
+DEF Q_PMOS_DGS-Device-Music_Player-rescue Q 0 0 Y N 1 F N
+F0 "Q" 200 50 50 H V L CNN
+F1 "Q_PMOS_DGS-Device-Music_Player-rescue" 200 -50 50 H V L CNN
+F2 "" 200 100 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 65 0 110 0 1 10 N
+C 100 -70 10 0 1 0 F
+C 100 70 10 0 1 0 F
+P 2 0 1 0 10 0 -100 0 N
+P 2 0 1 10 10 75 10 -75 N
+P 2 0 1 10 30 -50 30 -90 N
+P 2 0 1 10 30 20 30 -20 N
+P 2 0 1 10 30 90 30 50 N
+P 2 0 1 0 100 100 100 70 N
+P 3 0 1 0 100 -100 100 0 30 0 N
+P 4 0 1 0 30 70 130 70 130 -70 30 -70 N
+P 4 0 1 0 90 0 50 15 50 -15 90 0 F
+P 4 0 1 0 110 -20 115 -15 145 -15 150 -10 N
+P 4 0 1 0 130 -15 115 10 145 10 130 -15 N
+X D 1 100 200 100 D 50 50 1 1 P
+X G 2 -200 0 100 R 50 50 1 1 I
+X S 3 100 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Q_PMOS_DGS-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF Q_PMOS_DGS-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue Q 0 0 Y N 1 F N
+F0 "Q" 200 50 50 H V L CNN
+F1 "Q_PMOS_DGS-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 200 -50 50 H V L CNN
+F2 "" 200 100 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 65 0 110 0 1 10 N
+C 100 -70 10 0 1 0 F
+C 100 70 10 0 1 0 F
+P 2 0 1 0 10 0 -100 0 N
+P 2 0 1 10 10 75 10 -75 N
+P 2 0 1 10 30 -50 30 -90 N
+P 2 0 1 10 30 20 30 -20 N
+P 2 0 1 10 30 90 30 50 N
+P 2 0 1 0 100 100 100 70 N
+P 3 0 1 0 100 -100 100 0 30 0 N
+P 4 0 1 0 30 70 130 70 130 -70 30 -70 N
+P 4 0 1 0 90 0 50 15 50 -15 90 0 F
+P 4 0 1 0 110 -20 115 -15 145 -15 150 -10 N
+P 4 0 1 0 130 -15 115 10 145 10 130 -15 N
+X D 1 100 200 100 D 50 50 1 1 P
+X G 2 -200 0 100 R 50 50 1 1 I
+X S 3 100 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R-Device-Music_Player-rescue
+#
+DEF R-Device-Music_Player-rescue R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "R-Device-Music_Player-rescue" 0 0 50 V V C CNN
+F2 "" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF R-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "R-Device-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 0 50 V V C CNN
+F2 "" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# VBUS-power-Music_Player-rescue
+#
+DEF VBUS-power-Music_Player-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "VBUS-power-Music_Player-rescue" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X VBUS 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# VBUS-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF VBUS-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "VBUS-power-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X VBUS 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# VCC3.3-power
+#
+DEF VCC3.3-power #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "VCC3.3-power" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +VCC3.3 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# VS1053B-Audio
+#
+DEF VS1053B-Audio U 0 40 Y Y 1 F N
+F0 "U" 0 100 50 H V C CNN
+F1 "VS1053B-Audio" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -400 -50 400 -2800 0 1 0 f
+X MICP 1 -500 -2200 100 R 50 50 1 1 I
+X GPIO3 10 -500 -1650 100 R 50 50 1 1 N
+X GPIO6 11 -500 -1950 100 R 50 50 1 1 N
+X GPIO7 12 -500 -2050 100 R 50 50 1 1 N
+X XDCS 13 -500 -500 100 R 50 50 1 1 B
+X IOVDD 14 500 -200 100 L 50 50 1 1 W
+X VCO 15 -500 -1200 100 R 50 50 1 1 N
+X DGND 16 500 -1250 100 L 50 50 1 1 w
+X XTAL0 17 -500 -1050 100 R 50 50 1 1 P
+X XTAL1 18 -500 -950 100 R 50 50 1 1 P
+X IOVDD 19 500 -300 100 L 50 50 1 1 W
+X MICN 2 -500 -2300 100 R 50 50 1 1 I
+X DGND 20 500 -1350 100 L 50 50 1 1 w
+X DGND 21 500 -1450 100 L 50 50 1 1 w
+X DGND 22 500 -1550 100 L 50 50 1 1 w
+X XCS 23 -500 -400 100 R 50 50 1 1 B
+X CVDD 24 500 -650 100 L 50 50 1 1 W
+X GPIO5 25 -500 -1850 100 R 50 50 1 1 N
+X RX 26 500 -900 100 L 50 50 1 1 I
+X TX 27 500 -1000 100 L 50 50 1 1 O
+X SCK 28 -500 -300 100 R 50 50 1 1 B
+X MOSI 29 -500 -200 100 R 50 50 1 1 B
+X XREST 3 -500 -700 100 R 50 50 1 1 I
+X MISO 30 -500 -100 100 R 50 50 1 1 B
+X CVDD 31 500 -750 100 L 50 50 1 1 W
+X IOVDD 32 -500 -800 100 R 50 50 1 1 W
+X GPIO0 33 -500 -1350 100 R 50 50 1 1 B
+X GPIO1 34 -500 -1450 100 R 50 50 1 1 B
+X DGND 35 500 -1650 100 L 50 50 1 1 w
+X GPIO4 36 -500 -1750 100 R 50 50 1 1 N
+X AGND 37 500 -2300 100 L 50 50 1 1 w
+X AVDD 38 500 -1800 100 L 50 50 1 1 W
+X RIGHT 39 -500 -2650 100 R 50 50 1 1 I
+X DGND 4 500 -1150 100 L 50 50 1 1 w
+X AGND 40 500 -2400 100 L 50 50 1 1 w
+X AGND 41 500 -2500 100 L 50 50 1 1 w
+X GBUF 42 -500 -2750 100 R 50 50 1 1 B
+X AVDD 43 500 -1900 100 L 50 50 1 1 W
+X RCAP 44 500 -2150 100 L 50 50 1 1 B
+X AVDD 45 500 -2000 100 L 50 50 1 1 W
+X LEFT 46 -500 -2550 100 R 50 50 1 1 I
+X AGND 47 500 -2600 100 L 50 50 1 1 w
+X LINE2 48 -500 -2400 100 R 50 50 1 1 I
+X CVDD 5 500 -450 100 L 50 50 1 1 W
+X IOVDD 6 500 -100 100 L 50 50 1 1 W
+X CVDD 7 500 -550 100 L 50 50 1 1 W
+X DREQ 8 -500 -600 100 R 50 50 1 1 B
+X GPIO2 9 -500 -1550 100 R 50 50 1 1 N
+ENDDRAW
+ENDDEF
+#
+# ps7516-项目3专用库-Music_Player-rescue
+#
+DEF ps7516-项目3专用库-Music_Player-rescue U 0 40 Y Y 1 F N
+F0 "U" 350 500 50 H V C CNN
+F1 "ps7516-项目3专用库-Music_Player-rescue" 350 400 50 H V C CNN
+F2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" 150 -700 50 H I C CNN
+F3 "" 350 500 50 H I C CNN
+DRAW
+S 100 0 550 350 0 1 0 N
+X LX 1 650 300 100 L 50 50 1 1 U
+X GND 2 0 200 100 R 50 50 1 1 U
+X FB 3 650 100 100 L 50 50 1 1 U
+X EN 4 0 100 100 R 50 50 1 1 U
+X OUT 5 650 200 100 L 50 50 1 1 U
+X VIN 6 0 300 100 R 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+# ps7516-项目3专用库-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue
+#
+DEF ps7516-项目3专用库-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue U 0 40 Y Y 1 F N
+F0 "U" 350 500 50 H V C CNN
+F1 "ps7516-项目3专用库-Music_Player-rescue-Music_Player-rescue-Music_Player-rescue" 350 400 50 H V C CNN
+F2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" 150 -700 50 H I C CNN
+F3 "" 350 500 50 H I C CNN
+DRAW
+S 100 0 550 350 0 1 0 N
+X LX 1 650 300 100 L 50 50 1 1 U
+X GND 2 0 200 100 R 50 50 1 1 U
+X FB 3 650 100 100 L 50 50 1 1 U
+X EN 4 0 100 100 R 50 50 1 1 U
+X OUT 5 650 200 100 L 50 50 1 1 U
+X VIN 6 0 300 100 R 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library
